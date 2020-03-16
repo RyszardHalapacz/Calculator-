@@ -8,12 +8,10 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 project(Calculator)
 
 set(SRC_LIST 
-    Structs.hpp
-    Structs.cpp
+   
 
     main.cpp
-    String_Correction.cpp
-    String_Correction.hpp
+  
   
 )
 
