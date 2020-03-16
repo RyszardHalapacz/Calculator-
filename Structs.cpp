@@ -1,7 +1,7 @@
 
-#include"Structs.h"
+#include"Structs.hpp"
 #include <iostream>
-#include <conio.h>
+//#include <conio.h>
 using namespace std;
 
 

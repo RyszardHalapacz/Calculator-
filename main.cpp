@@ -1,15 +1,17 @@
 
 
 #include <iostream>
-#include <conio.h>
-#include<string>
-#include "String_Correction.h"
-#include"Structs.h"
+//#include <conio.h>
+#include <string>
+
+#include "String_Correction.hpp"
+#include "Structs.hpp"
 
 using namespace std;
 
 int fromstringtostruct(Jumper &L, string &);
 void cleanerstring(string &);
+
 
 
 
