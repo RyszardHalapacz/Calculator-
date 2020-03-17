@@ -8,11 +8,12 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 project(Calculator)
 
 set(SRC_LIST 
-   
+    class.hpp
+ 
 
     main.cpp
-  
-  
+    class.cpp
+
 )
 
 add_executable(${PROJECT_NAME} ${SRC_LIST})
